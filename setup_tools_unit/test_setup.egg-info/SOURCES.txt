@@ -1,0 +1,11 @@
+README.md
+setup.py
+src/__init__.py
+src/main.py
+test_setup.egg-info/PKG-INFO
+test_setup.egg-info/SOURCES.txt
+test_setup.egg-info/dependency_links.txt
+test_setup.egg-info/entry_points.txt
+test_setup.egg-info/not-zip-safe
+test_setup.egg-info/requires.txt
+test_setup.egg-info/top_level.txt

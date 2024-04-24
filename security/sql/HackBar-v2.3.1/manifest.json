@@ -1,0 +1,18 @@
+{
+   "author": "Khoiasd",
+   "background": {
+      "scripts": [ "background.js" ]
+   },
+   "description": "A HackBar for google chrome/firefox browser. Small tool for pentesting websercurity.",
+   "devtools_page": "theme/hackbar.html",
+   "homepage_url": "https://hackbar.herokuapp.com",
+   "icons": {
+      "48": "icons/icon.png"
+   },
+   "key": "MIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEAh3NZf3lhj/07dC9lk0d2k1rOnMDYuTRcscndv5+QCEQ1JxlurgsLReXzWeEL7YnveOs8LFflSywMF2rfnPwLVSSmFIMC7a0vCM01daEmOJuVueLO/3OO+NLA1cHBMtA/gnOyoeeKIr1qvcJc98OWSILQjZRV8SA1vKliR2YtNv8jVNuIhBBpLkmLyrp3oZEhWoAc6n4cElJshSZhc2EB5PDqS8xvC1UPFl9LrtxQR0uoy+4xRNyzbZwn2XErM+1iLyACzsUhMlAbjRujomDxpXuHcP4Rs6x6ai+TIMyRbI83PDydZQpd/Kd+YrEis3Ex/5tDTCM/Wqdy5NH+eStyxQIDAQAB",
+   "manifest_version": 2,
+   "name": "HackBar",
+   "permissions": [ "tabs", "activeTab", "webRequest", "webRequestBlocking", "\u003Call_urls>", "storage" ],
+   "update_url": "https://clients2.google.com/service/update2/crx",
+   "version": "2.3.1"
+}

@@ -1,0 +1,3 @@
+[console_scripts]
+test_run = src.main:mian
+
